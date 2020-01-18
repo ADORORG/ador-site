@@ -46,27 +46,27 @@ function attachFaqToDocumentBody() {
 	var faqs = [
 		{
 			question: "What is Ador?",
-			answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Gravida in fermentum et sollicitudin ac orci phasellus egestas. At tellus at urna condimentum mattis pellentesque. Senectus et netus et malesuada. Amet purus gravida quis blandit turpis cursus in hac habitasse. "
+			answer: "ADOR is the essence of GOODS & SERVICES reimagined for the 21st century. "
 		},
 		{
 			question: "How does it work?",
-			answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Gravida in fermentum et sollicitudin ac orci phasellus egestas. At tellus at urna condimentum mattis pellentesque. Senectus et netus et malesuada. Amet purus gravida quis blandit turpis cursus in hac habitasse. "
+			answer: "SImply put. A COMPANY< CREATIVE & CONSUMER can now BUY, SELL and TRADE just about any item; virtually"
 		},
 		{
 			question: "When is beta testing?",
-			answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Gravida in fermentum et sollicitudin ac orci phasellus egestas. At tellus at urna condimentum mattis pellentesque. Senectus et netus et malesuada. Amet purus gravida quis blandit turpis cursus in hac habitasse. "
+			answer: "We will Launch our ALPHA BUILD Q3 2020. And Beta testing will start shortly after in 2021"
 		},
 		{
-			question: "Why virtual identity?",
-			answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Gravida in fermentum et sollicitudin ac orci phasellus egestas. At tellus at urna condimentum mattis pellentesque. Senectus et netus et malesuada. Amet purus gravida quis blandit turpis cursus in hac habitasse. "
+			question: "Why build a digital economy?",
+			answer: "We see a major need for AUTHENTICY & CONNECTIVITY in the global markets, blockchain finally allows this to be possible."
 		},
 		{
 			question: "Is this secure?",
-			answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Gravida in fermentum et sollicitudin ac orci phasellus egestas. At tellus at urna condimentum mattis pellentesque. Senectus et netus et malesuada. Amet purus gravida quis blandit turpis cursus in hac habitasse. "
+			answer: "With military grade encryption, open sourced tech and a decentralized power structure; you better believe this is."
 		},
 		{
 			question: "How can I earn?",
-			answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Gravida in fermentum et sollicitudin ac orci phasellus egestas. At tellus at urna condimentum mattis pellentesque. Senectus et netus et malesuada. Amet purus gravida quis blandit turpis cursus in hac habitasse. "
+			answer: "There are various ways to be rewarded with our platform. From inviting friends to to daily pooled winnings. We will launch LENDING & STAKING Q4 2021"
 		}
 	]
 	var faqsContainer = document.querySelector("#faq .columns");
