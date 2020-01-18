@@ -46,15 +46,15 @@ function attachFaqToDocumentBody() {
 	var faqs = [
 		{
 			question: "What is Ador?",
-			answer: "ADOR is the essence of GOODS & SERVICES reimagined for the 21st century. "
+			answer: "ADOR is the manifestaion of GOODS & SERVICES reimagined for the 21st century. "
 		},
 		{
 			question: "How does it work?",
-			answer: "SImply put. A COMPANY< CREATIVE & CONSUMER can now BUY, SELL and TRADE just about any item; virtually"
+			answer: "Simply put. A COMPANY, CREATIVE and CONSUMER can now BUY, SELL and TRADE just about any item; virtually."
 		},
 		{
 			question: "When is beta testing?",
-			answer: "We will Launch our ALPHA BUILD Q3 2020. And Beta testing will start shortly after in 2021"
+			answer: "We will Launch our ALPHA BUILD Q3 2020. And Beta testing will start shortly after in 2021."
 		},
 		{
 			question: "Why build a digital economy?",
@@ -62,7 +62,7 @@ function attachFaqToDocumentBody() {
 		},
 		{
 			question: "Is this secure?",
-			answer: "With military grade encryption, open sourced tech and a decentralized power structure; you better believe this is."
+			answer: "With open sourced tech and a decentralized power structure; you better believe this is."
 		},
 		{
 			question: "How can I earn?",
