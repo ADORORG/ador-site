@@ -1,2 +1,2 @@
-## Ador static landing page
+## Ador landing page
 https://adors.org
