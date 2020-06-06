@@ -46,15 +46,15 @@ function attachFaqToDocumentBody() {
 	var faqs = [
 		{
 			question: "What is Ador?",
-			answer: "ADOR is the manifestaion of GOODS & SERVICES reimagined for the 21st century. "
+			answer: "ADOR is a COMMUNITY Created platform to Empower & Reward Creators!"
 		},
 		{
 			question: "How does it work?",
-			answer: "Simply put. A COMPANY, CREATIVE and CONSUMER can now BUY, SELL and TRADE just about any item; virtually."
+			answer: "The culture of ADOR is based on Proof of work. Any creator must be VOTED in and maintain their reputation to increase their stake in the network."
 		},
 		{
 			question: "When is beta testing?",
-			answer: "We will Launch our ALPHA BUILD Q3 2020. And Beta testing will start shortly after in 2021."
+			answer: "We will Launch our ALPHA BUILD Q2 2020, and Beta testing will start shortly after in 2021."
 		},
 		{
 			question: "Why build a digital economy?",
@@ -62,11 +62,11 @@ function attachFaqToDocumentBody() {
 		},
 		{
 			question: "Is this secure?",
-			answer: "With open sourced tech and a decentralized power structure; you better believe this is."
+			answer: "The security is based in the foundation of our culture. Each creator will retain full owenership of their creations and the ALLIANCE will monitor the ADOR network."
 		},
 		{
 			question: "How can I earn?",
-			answer: "There are various ways to be rewarded with our platform. From inviting friends to to daily pooled winnings. We will launch LENDING & STAKING Q4 2021"
+			answer: "There are various ways to be rewarded on ADOR. Referring reputable creatives will be the greatest way to earn with ADOR. Social task, inviting friends, quarterly raffles and daily ORB prizes are a few others ways the community can earn. Once beta is ready, we will activate STAKING & LENDING."
 		}
 	]
 	var faqsContainer = document.querySelector("#faq .columns");
