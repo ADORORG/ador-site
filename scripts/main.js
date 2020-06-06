@@ -46,7 +46,7 @@ function attachFaqToDocumentBody() {
 	var faqs = [
 		{
 			question: "What is Ador?",
-			answer: "ADOR is a COMMUNITY Created platform to Empower & Reward Creators!"
+			answer: "ADOR is an agnostic COMMUNITY Created platform to Empower & Reward Creators! We are testing various blockchain technologies to create a global marketplace for digital goods."
 		},
 		{
 			question: "How does it work?",
