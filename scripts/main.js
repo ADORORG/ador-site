@@ -50,7 +50,7 @@ function attachFaqToDocumentBody() {
 		},
 		{
 			question: "How does it work?",
-			answer: "The culture of ADOR is based on Proof of work. Any creator must be VOTED in and maintain their reputation to increase their stake in the network."
+			answer: "The culture of ADOR is based on a validated Proof of stake consenus. All creators must provide an authentic Proof of work to establish their reputation, after the beta phase. All creators must be VOTED in and maintain their reputation to increase their stake in the network."
 		},
 		{
 			question: "When is beta testing?",
